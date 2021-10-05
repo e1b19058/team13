@@ -1,0 +1,50 @@
+res:0	pwd:/c/Users/nakac/oithomes/isdev
+[Shusseki Start]#1633409478
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13
+#1633411103
+cd team13
+res:1	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13
+#1633411112
+gradle bootrun
+res:1	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13
+#1633411690
+gradle bootrun
+res:0	pwd:/c/Users/nakac/oithomes/isdev
+#1633411707
+cd
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13
+#1633411720
+cd ~/kadai/isdev21/team13
+res:1	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13
+#1633411725
+gradle bootrun
+[Shusseki End]#1633411748
+res:1	pwd:/c/Users/nakac/oithomes/isdev
+#1633409478
+shusseki
+res:1	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13
+#1633411754
+gradle bootrun
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13
+#1633411784
+ls
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13/team13
+#1633411805
+cd team13
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21
+#1633412139
+git init
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21
+#1633412177
+git branch -m main
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21
+#1633412296
+git add -A
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21
+#1633412307
+git status
+res:0	pwd:/c/Users/nakac/oithomes/isdev/kadai/isdev21/team13/team13
+#1633412387
+cd ~/kadai/isdev21/team13/team13
